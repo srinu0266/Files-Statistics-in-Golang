@@ -22,3 +22,7 @@ go build -o stage2.exe
 
 # Get file statistics at 
 http://127.0.0.1:8080/statistics
+
+
+# For File processing go to the child branch
+ Follow the readme in child branch
